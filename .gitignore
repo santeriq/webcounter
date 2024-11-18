@@ -1,0 +1,7 @@
+.github/
+.venv/
+log.html
+output.xml
+report.html
+selenium-screenshot*
+*__pycache__*
